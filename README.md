@@ -1,5 +1,5 @@
 # Google Apps Script Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Google Apps Script Training](https://www.tertiarycourses.com.sg/google-apps-script-training.html) course. 
 
