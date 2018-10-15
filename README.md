@@ -7,38 +7,49 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/google-apps-script-training.html
 
+https://www.tertiarycourses.com.my/basic-google-apps-script-training-in-malaysia.html
+
 <p><strong>Module 1. Getting Started</strong></p>
 <ul>
 <li>What is Google Apps Script</li>
-<li>What can Google Apps Script Do?&nbsp;</li>
-<li>Bound Script</li>
-<li>Standalone Script</li>
-<li>Your First Script</li>
+<li>Google Apps Script Editor</li>
+<li>Write Your First Google Apps Script</li>
+<li>Mail Service</li>
+<li>Run You Script</li>
 </ul>
-<p><strong>Module 2. Working With Document and Spreadsheet</strong></p>
+<p><strong>Module 2. Google Sheet Script</strong></p>
 <ul>
-<li>Create New Document</li>
-<li>Edit Document</li>
-<li>Create New Spreadsheet</li>
-<li>Edit Spreadsheet</li>
+<li>Spreadsheet Service</li>
+<li>Sheet Methods</li>
+<li>Range Methods</li>
+<li>Get and Change Cell Values</li>
+<li>Apply Formula</li>
 </ul>
-<p><strong>Module 3. Custom Function</strong></p>
+<p><strong>Module 3. Google Doc Script</strong></p>
 <ul>
-<li>Create Custom Function</li>
-<li>Output to Multiple Columns</li>
-<li>Output to Multiple Rows</li>
+<li>Document Service</li>
+<li>Document Methods</li>
+<li>Body Methods</li>
+<li>Text Methods</li>
+<li>Modify and Append Text</li>
 </ul>
-<p><strong>Module 4. Triggers &amp; Event</strong></p>
+<p><strong>Module 4. Google Slide Script</strong></p>
 <ul>
-<li>Trigger Types</li>
-<li>Simple Trigger</li>
-<li>Installable Trigger</li>
+<li>Slide Service</li>
+<li>Presentation Methods</li>
+<li>Slide Methods</li>
+<li>Modify Slide Font</li>
+</ul>
+<p><strong>Module 5. Google Calendar Script</strong></p>
+<ul>
+<li>Slide Service</li>
+<li>Presentation Methods</li>
+<li>Slide Methods</li>
+<li>Modify Slide Format</li>
+</ul>
+<p><strong>Module 6. Triggers</strong></p>
+<ul>
+<li>What is Trigger</li>
 <li>Time Driven Trigger</li>
-<li>Alert &amp; Custom Dialog</li>
-</ul>
-<p><strong>Module 5. Web Apps</strong></p>
-<ul>
-<li>Requirement of Web Apps</li>
-<li>Serve HTML as Web Apps</li>
-<li>Pusblish Web Apps</li>
+<li>Setup an Auto Email Alert</li>
 </ul>
