@@ -20,7 +20,17 @@ function createEvent() {
   event.addGuest('angch@tertiaryinfotech.com')
 }
 
-// Creat a recurrence event
+// Recurrence event
+function createEventSeries() {
+ var calendar = CalendarApp.getOwnedCalendarById('angchewhoe@gmail.com');
+ var event = calendar.createEventSeries(
+   'Weekly Swimming Lession',
+   new Date('October 22, 2018 10:00:00 UTC+8'),
+   new Date('October 22, 2018 12:00:00 UTC+8'),
+   CalendarApp.newRecurrence().addWeeklyRule().times(10));
+ }
+
+// Ex: Creat a recurrence event
 function createEvent() {
   var recurrence = CalendarApp.newRecurrence().addWeeklyRule().times(10);
   var event = CalendarApp.getOwnedCalendarById('angchewhoe@gmail.com').createAllDayEventSeries('Adv Google Apps Script Class',
