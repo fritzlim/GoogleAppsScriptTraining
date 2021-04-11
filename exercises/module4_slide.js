@@ -20,7 +20,7 @@ function updateFont() {
 	slides.forEach(function(slide) {
       var elements = slide.getPageElements();
       elements.forEach(function(element){
-        var textStyle = type.asShape().getText().getTextStyle();
+        var textStyle = element.asShape().getText().getTextStyle();
         textStyle.setFontFamily('COMFORTAA');
         textStyle.setFontSize(50);
         }) 
